@@ -2,8 +2,6 @@
 layout: post
 title:  "Dear Liberal Democrat Party..."
 date:   2011-05-12 18:03:00
-categories: post
-published: false
 ---
 
 I do not wish to hear about &#8220;a more businesslike relationship". To be honest that&#8217;s what I thought you had anyway &#8212; I thought the stuff about &#8220;marriage" was journalistic metaphor, I didn&#8217;t realise you were <em>actually</em> fucking the Tories.

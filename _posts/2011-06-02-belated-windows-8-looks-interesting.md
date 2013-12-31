@@ -2,8 +2,6 @@
 layout: post
 title:  "Belated: Windows 8 looks interesting"
 date:   2011-06-02 13:50:37
-categories: post
-published: false
 ---
 
 ![Windows 8](/images/image000005.jpg)
