@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About Owen Morgan-Jones
+title: About Owen
 tags: 
 image:
   feature: main_banner.jpg
