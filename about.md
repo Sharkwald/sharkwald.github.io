@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tags: [Jekyll, theme, modern, minimal, responsive]
+title: About Owen Morgan-Jones
+tags: 
 image:
   feature: main-banner.jpg
 ---
