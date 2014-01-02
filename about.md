@@ -4,7 +4,7 @@ permalink: /about/
 title: About Owen Morgan-Jones
 tags: 
 image:
-  feature: main-banner.jpg
+  feature: main_banner.jpg
 ---
 
 I am Owen Morgan-Jones, a Welsh software developer living in Glasgow
