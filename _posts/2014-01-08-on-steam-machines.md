@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Steam Machines
-description: "Things what I did in 2013"
+description: "Steam Machines and the wasted opportunity therein."
 tags: [steam machines, gaming, tech, pcs]
 image:
   feature: steam-machine.jpg
