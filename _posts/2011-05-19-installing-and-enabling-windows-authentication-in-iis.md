@@ -4,6 +4,7 @@ title:  "Installing and Enabling Windows Authentication in IIS 7.5"
 description: "A post to remind Owen HTF to do this."
 date:   2011-05-19 04:25:27
 tags: [aide memoire, tech, configuration]
+published: false
 ---
 This post is intended to be one of a series of info dumps so I don&#8217;t forget any fiddly work-arounds, and may even be useful for anyone else facing similar issues.
 
