@@ -7,7 +7,7 @@ image:
   feature: steam-machine.jpg
   credit: the verge
   creditlink: http://www.theverge.com/2013/11/4/5063760/we-try-the-steam-machine-valves-video-game-console-of-the-future
-published: false
+published: true
 share: true
 ---
 
