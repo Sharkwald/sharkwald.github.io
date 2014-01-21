@@ -2,7 +2,7 @@
 layout: post
 title: On Sex With Google Glass
 description: "Wat."
-tags: [google glass, tech, pcs, are you serious, unsexy sex ideas]
+tags: [google glass, tech, are you serious, unsexy sex ideas]
 image:
   feature: sexy-sexy-glass.png
   credit: Sex With Google Glass
