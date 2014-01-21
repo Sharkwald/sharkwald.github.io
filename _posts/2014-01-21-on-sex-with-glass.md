@@ -37,7 +37,7 @@ Oh yes. I'm sure that'd work. What absolutely would NOT happen is this
 > Him: God dammit bluetooth!  
 > Her: It's OK honey, we can jus--  
 > Him: No no, I got this, two seconds, two seconds.  
-> <A longer pause>  
+> __A longer pause__  
 > Him: Yes! Now, where were we?  
 > __Later__  
 > Her: Honey, are you looking at yourself in the mirror whilst I'm...?  
@@ -47,7 +47,7 @@ Oh yes. I'm sure that'd work. What absolutely would NOT happen is this
 > __Later__  
 > Her: Ooh!  
 > Him: Oh no, hold on a minute, we've knocked the phone over, no I don't care how close you are, this'll ruin the recording!  
-> __Later still__
+> __Later still__  
 > Him: No, stop again, we've moved, now the camera can only see our feet  
 > Her: Ow!  
 > Him: What what what?  
