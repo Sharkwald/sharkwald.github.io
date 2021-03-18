@@ -1,7 +1,7 @@
 body{
 	background:#333333 url(images/page-bg.jpg);
 	margin:0px;
-	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
+	font: 400 14px/26px 'Open Sans', Verdana, Helvetica, sans-serif;
 	color:#6a6969;
 }
 h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#6a6969;}
@@ -50,8 +50,9 @@ a img{border:0px;}
 /* ABOUT SECTION */
 /****************************************************/
 
-#about{margin:0px 43px; padding-top:115px;}
+#about{margin:0px 43px; padding-top:115px;font-size: 1.3em;}
 #about h1{float:left;}
+#about h2{font-size: 1.4em;}
 #about #top-social{float:right; padding-top:62px;}
 #about #top-social li{float:left; list-style:none; margin-left:10px;}
 #about #top-social .facebook{
@@ -87,15 +88,17 @@ a img{border:0px;}
 	float:left;
 	margin-right:20px;
 }
-#about .content #service-icons li.services-design{background:url(images/icon-1.png) no-repeat;}
-#about .content #service-icons li.services-mobile{background:url(images/icon-2.png) no-repeat;}
-#about .content #service-icons li.services-film{background:url(images/icon-3.png) no-repeat;}
-#about .content #service-icons li.services-photo{background:url(images/icon-4.png) no-repeat;}
+#about .content #service-icons li.services-code{background:url(images/icon-code.png) no-repeat;}
+#about .content #service-icons li.services-mobile{background:url(images/icon-mobile.png) no-repeat;}
+#about .content #service-icons li.services-desktop{background:url(images/icon-desktop.png) no-repeat;}
+#about .content #service-icons li.services-cloud{background:url(images/icon-cloud.png) no-repeat;}
 
 /****************************************************/
 /* EXPERIENCE SECTION */
 /****************************************************/
 
+#experience h2{font: 400 48px/50px 'Bree Serif', Georgia, serif; color:#6a6969;}
+#experience h3{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
 #experience{margin:0px 43px; padding-top:115px;}
 #experience .col{
 	width:235px;
@@ -103,6 +106,24 @@ a img{border:0px;}
 }
 #experience .content{overflow:auto;}
 #experience .col-mid{margin:0px 65px;}
+
+/****************************************************/
+/* KEY SKILLS SECTION */
+/****************************************************/
+
+#key-skills h2{font: 400 48px/50px 'Bree Serif', Georgia, serif; color:#6a6969;}
+#key-skills h3{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
+#key-skills{margin:0px 43px; padding-top:115px;}
+#key-skills .col{
+	width:235px;
+	float:left;
+}
+#key-skills .content{overflow:auto;}
+#key-skills .col-mid{margin:0px 65px;}
+#key-skills .content li {
+	list-style:disc;
+}
+
 
 /****************************************************/
 /* WORK SECTION */
