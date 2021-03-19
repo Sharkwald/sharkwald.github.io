@@ -76,3 +76,8 @@ Developer across a number of line of business and public facing web applications
 * Professional enquiries via [LinkedIn](https://www.linkedin.com/in/owenmorganjones/).
 * Referees available on request.
 * [Plain text version of this CV](./cv.md).
+
+## Socials
+
+* [LinkedIn](https://www.linkedin.com/in/owenmorganjones/)
+* [Github](https://github.com/Sharkwald)

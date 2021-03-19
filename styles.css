@@ -2,9 +2,9 @@ body{
 	background:#333333 url(images/page-bg.jpg);
 	margin:0px;
 	font: 400 14px/26px 'Open Sans', Verdana, Helvetica, sans-serif;
-	color:#999999;
+	color:#dcdcdc;
 }
-h1,h2,h3,h4{font-family: 'Bree Serif', Georgia, serif; color:#999999;}
+h1,h2,h3,h4{font-family: 'Bree Serif', Georgia, serif; color:#dcdcdc;}
 
 .container{
 	background:url(images/body-bg.png);
@@ -54,5 +54,5 @@ nav .navbar-toggler {
   font-size: 1.2em;
 }
 
-a {text-decoration:none; color:#6a6969;}
-a:hover {color:#979797;}
+a {text-decoration:none; color:#8c8c8c;}
+a:hover {color:#bbbbbb;}
