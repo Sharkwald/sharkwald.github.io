@@ -37,7 +37,7 @@ Delivery was implemented using a rapid iteration DevOps method where the applica
 
 UI Technical Lead in a distributed team, delivering a rich, imagery intensive productive application for automated undersea pipeline analysis. Use of VueJS & ES6 with a surrounding toolchain including Maven, WebPack, and ESLint to deliver a highly modular front end application that is capable of being updated over satellite internet link only including deltas to updated modules.
 
-Delivery was agile, with a sprit cycle of 3 weeks, featuring regular engagement with SMEs and users, which ensured a more optimised UI design allowing for highly productive keyboard control of an expert system.
+Delivery was agile, with a sprint cycle of 3 weeks, featuring regular engagement with SMEs and users, which ensured a more optimised UI design allowing for highly productive keyboard control of an expert system.
 
 #### Jul 2018 &ndash; Mar 2019; Full Stack Developer; CSAS Project
 
