@@ -2,7 +2,7 @@
 
 ## Personal Statement
 
-Software engineering lead with over 15 years experience in the design, development, Agile delivery and support of many full stack web applications. Extensive experience in all stages of the Software Development Life Cycle, including via DevOps methods. A proven record of bringing innovative solutions and new technologies to developments to improve delivery and user experience. Experienced in multiple languages, platforms, with certifications in AWS.
+Software engineering lead based in Glasgow, Scotland, with over 15 years experience in the design, development, Agile delivery and support of many full stack web applications. Extensive experience in all stages of the Software Development Life Cycle, including via DevOps methods. A proven record of bringing innovative solutions and new technologies to developments to improve delivery and user experience. Experienced in multiple languages, platforms, with certifications in AWS.
 
 ## Key Skills & Qualifications
 
@@ -49,7 +49,7 @@ Lead one team in a mutli-workstream programme delivering public and internal fac
 
 ### Bridgeall
 
-#### Mar 2014 &ndash Mar 2015; Senior Developer; Various Projects
+#### Mar 2014 &ndash; Mar 2015; Senior Developer; Various Projects
 
 Team lead on a number of projects for public sector customers, all using delivery to the MS Azure cloud platform and taking advantage of DevOps methods and infrastructure-as-code.
 
@@ -70,3 +70,9 @@ Developer across a number of line of business and public facing web applications
 * Being amongst the first in Leidos to begin the transition to reactive web UIs via the use of KnockoutJS;
 * Regular developments to internal reference architectures integrating new and improved technologies;
 * Contribution to the open source library AutoMapper, adding improvements which are now used in tens of millions of projects worldwide.
+
+## Contact
+
+* Professional enquiries via [LinkedIn](https://www.linkedin.com/in/owenmorganjones/).
+* Referees available on request.
+* [Plain text version of this CV](./cv.md).
