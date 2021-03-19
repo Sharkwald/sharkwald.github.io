@@ -45,7 +45,7 @@ Full stack developer in a highly agile co-located team, with tight integration w
 
 #### Mar 2015 &ndash; Dec 2017; Team lead and developer; AIB CIS Project
 
-Lead one team in a mutli-workstream programme delivering public and internal facing line of business applications for the Scottish Accountant in Bankruptcy. The main technologies used were ASP.NET MVC, NHibernate, and the application was designed using DDD principles. Also introduced a major reimplementation of the Data Warehouse integration that greatly improved the performance and user experience related to reporting.
+Led one team in a mutli-workstream programme delivering public and internal facing line of business applications for the Scottish Accountant in Bankruptcy. The main technologies used were ASP.NET MVC, NHibernate, and the application was designed using DDD principles. Also introduced a major reimplementation of the Data Warehouse integration that greatly improved the performance and user experience related to reporting.
 
 ### Bridgeall
 
