@@ -6,12 +6,6 @@ Software engineering lead with over 15 years experience in the design, developme
 
 ## Key Skills & Qualifications
 
-### Qualifications
-
-* MEng (Hons) Software Engineering, Swansea University, 2005
-* AWS Certified Cloud Practitioner 2020
-* AWS Certified Associate Developer 2020
-
 ### Key Skills
 
 * Robust experience of applying engineering patterns and practises in front end technologies.
@@ -22,6 +16,12 @@ Software engineering lead with over 15 years experience in the design, developme
 * Experience and comfort in working with both distributed and co-located teams.
 * Expert to intermediate level knowledge of predominantly .Net based back end technologies, including C#, SQL Server, WebAPI, MVC, NHibernate, and EntityFramework.
 * Expert to intermediate level knowledge of common software development tools, including Visual Studio, Git, SVN, Jira, Trello, GitLab, Github and Sharepoint.
+
+### Qualifications
+
+* MEng (Hons) Software Engineering, Swansea University, 2005
+* AWS Certified Cloud Practitioner 2020
+* AWS Certified Associate Developer 2020
 
 ## Selected Experience
 
