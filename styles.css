@@ -53,3 +53,6 @@ nav .navbar-toggler {
 .nav-link {
   font-size: 1.2em;
 }
+
+a {text-decoration:none; color:#6a6969;}
+a:hover {color:#979797;}
