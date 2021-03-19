@@ -2,7 +2,7 @@
 
 ## Personal Statement
 
-Software engineering lead based in Glasgow, Scotland, with over 15 years experience in the design, development, Agile delivery and support of many full stack web applications. Extensive experience in all stages of the Software Development Life Cycle, including via DevOps methods. A proven record of bringing innovative solutions and new technologies to developments to improve delivery and user experience. Experienced in multiple languages, platforms, with certifications in AWS.
+Software engineering lead based in Glasgow, Scotland, with over 15 years experience in design, development, Agile delivery and support of many full stack web applications. Extensive experience in all stages of the Software Development Life Cycle, including via DevOps methods. A proven record of bringing innovative solutions and new technologies to developments to improve delivery and user experience. Experienced in multiple languages, platforms, with certifications in AWS.
 
 ## Key Skills & Qualifications
 
