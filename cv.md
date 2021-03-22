@@ -8,14 +8,14 @@ Software engineering lead based in Glasgow, Scotland, with over 15 years experie
 
 ### Key Skills
 
-* Robust experience of applying engineering patterns and practises in front end technologies.
-* Experience of Domain Driven Design (DDD) and Test Driven Design (TDD) in a front end context.
-* Formal certification as Amazon Web Services (AWS) cloud practitioner and extensive experience using Microsoft Azure DevOps (ADO).
-* Experience of rapidly iterating on projects using DevOps methods and infrastructure-as-code, including deployment using Docker containers to AWS.
-* Over 8 years experience of delivering multi-million pound projects using agile methods.
-* Experience and comfort in working with both distributed and co-located teams.
 * Expert to intermediate level knowledge of predominantly .Net based back end technologies, including C#, SQL Server, WebAPI, MVC, NHibernate, and EntityFramework.
-* Expert to intermediate level knowledge of common software development tools, including Visual Studio, Git, SVN, Jira, Trello, GitLab, Github and Sharepoint.
+* Over 8 years experience of delivering multi-million pound projects using agile methods.
+* Formal certification as Amazon Web Services (AWS) cloud practitioner and extensive experience using Microsoft Azure DevOps (ADO).
+* Robust experience of applying engineering patterns and practises in front end technologies.
+* Experience of Domain Driven Design (DDD) and Test Driven Design (TDD) across the complete software development stack
+* Experience of rapidly iterating on projects using DevOps methods and infrastructure-as-code, including deployment using Docker containers to AWS.
+* Expert to intermediate level knowledge of common software development project management tools, including Visual Studio, Git, SVN, Jira, Trello, GitLab, Github and Sharepoint.
+* Experience and comfort in working with both distributed and co-located teams.
 
 ### Qualifications
 
@@ -33,7 +33,7 @@ Software engineering lead based in Glasgow, Scotland, with over 15 years experie
 
 ##### Various Public Sector Projects
 
-Full Stack developer in a distributed team across a number of public sector projects delivering highly secure solutions utilising a number of technology platforms. These included delivering a zero-data-loss data access system that made use of AWS cloud technologies including S3, SQS, EC2, CodeCommit, EKS.
+Full Stack developer in a distributed team across a number of public sector projects delivering highly secure solutions utilising a number of technology platforms. These included delivering a zero-data-loss data access system that made use of AWS cloud technologies including S3, SQS, EC2, CodeCommit, and EKS.
 
 Delivery was implemented using a rapid iteration DevOps method where the application was implemented on a number of Docker containers deployed in a Blue/Green manner with extensive use of infrastructure-as-code.
 
