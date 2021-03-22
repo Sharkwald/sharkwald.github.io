@@ -10112,3 +10112,12 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+@media (max-width:376px) {
+  #about h1 {
+    font-size: 4.5rem;
+  }
+  #about h2 {
+    font-size: 3rem;
+  }
+}
