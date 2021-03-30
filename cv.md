@@ -77,7 +77,7 @@ Team lead on a number of projects for public sector customers, all using deliver
 
 #### Senior Developer
 
-##### Jan 2019 &ndash; Mar 2014
+##### Jan 2010 &ndash; Mar 2014
 
 ##### Process Safety KPI Dashboard Project
 
