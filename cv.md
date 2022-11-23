@@ -107,3 +107,4 @@ Developer across a number of line of business and public facing web applications
 
 * [LinkedIn](https://www.linkedin.com/in/owenmorganjones/)
 * [Github](https://github.com/Sharkwald)
+* <a rel="me" href="https://glasgow.social/@sharkwald">Mastodon</a>
